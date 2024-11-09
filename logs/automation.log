@@ -1,0 +1,60 @@
+15:59:09.782 [main] INFO  api.test.UserTests - ****Creating Users********
+15:59:12.601 [main] INFO  api.test.UserTests - ****Users Created********
+15:59:12.610 [main] INFO  api.test.UserTests - ****Getting Users********
+15:59:13.923 [main] INFO  api.test.UserTests - ****User Details Retrieved********
+15:59:13.928 [main] INFO  api.test.UserTests - ****Updating Users********
+15:59:16.447 [main] INFO  api.test.UserTests - ****Updated Users********
+15:59:16.453 [main] INFO  api.test.UserTests - ****Deleting Users********
+15:59:17.671 [main] INFO  api.test.UserTests - ****Deleted Users********
+21:16:20.494 [main] INFO  api.test.UserTestsProperties - ****Creating Users********
+21:16:23.560 [main] INFO  api.test.UserTestsProperties - ****Getting Users********
+21:16:24.785 [main] INFO  api.test.UserTestsProperties - ****Updating Users********
+21:16:27.510 [main] INFO  api.test.UserTestsProperties - ****Deleting Users********
+21:21:38.100 [main] INFO  api.test.UserTestsProperties - ****Creating Users********
+21:21:40.827 [main] INFO  api.test.UserTestsProperties - ****Getting Users********
+21:21:42.077 [main] INFO  api.test.UserTestsProperties - ****Updating Users********
+21:21:44.519 [main] INFO  api.test.UserTestsProperties - ****Deleting Users********
+21:23:17.892 [main] INFO  api.test.UserTests - ****Creating Users********
+21:23:20.634 [main] INFO  api.test.UserTests - ****Users Created********
+21:23:20.646 [main] INFO  api.test.UserTests - ****Getting Users********
+21:23:21.866 [main] INFO  api.test.UserTests - ****User Details Retrieved********
+21:23:21.871 [main] INFO  api.test.UserTests - ****Updating Users********
+21:23:24.318 [main] INFO  api.test.UserTests - ****Updated Users********
+21:23:24.326 [main] INFO  api.test.UserTests - ****Deleting Users********
+21:23:25.522 [main] INFO  api.test.UserTests - ****Deleted Users********
+21:50:01.509 [main] INFO  api.test.UserTestsProperties - ****Creating Users********
+21:50:04.666 [main] INFO  api.test.UserTestsProperties - ****Getting Users********
+21:50:05.918 [main] INFO  api.test.UserTestsProperties - ****Updating Users********
+21:50:08.425 [main] INFO  api.test.UserTestsProperties - ****Deleting Users********
+21:51:02.439 [main] INFO  api.test.UserTestsProperties - ****Creating Users********
+21:51:05.188 [main] INFO  api.test.UserTestsProperties - ****Getting Users********
+21:51:06.408 [main] INFO  api.test.UserTestsProperties - ****Updating Users********
+21:51:09.916 [main] INFO  api.test.UserTestsProperties - ****Deleting Users********
+21:52:11.917 [main] INFO  api.test.UserTestsProperties - ****Creating Users********
+21:52:14.615 [main] INFO  api.test.UserTestsProperties - ****Getting Users********
+21:52:15.887 [main] INFO  api.test.UserTestsProperties - ****Updating Users********
+21:52:19.126 [main] INFO  api.test.UserTestsProperties - ****Deleting Users********
+23:31:10.490 [main] INFO  api.test.UserTestsProperties - ****Creating Users********
+23:31:13.664 [main] INFO  api.test.UserTestsProperties - ****Users Created********
+23:31:13.676 [main] INFO  api.test.UserTestsProperties - ****Getting Users********
+23:31:14.901 [main] INFO  api.test.UserTestsProperties - ****User Details Retrieved********
+23:31:14.904 [main] INFO  api.test.UserTestsProperties - ****Updating Users********
+23:31:17.401 [main] INFO  api.test.UserTestsProperties - ****Updated Users********
+23:31:17.406 [main] INFO  api.test.UserTestsProperties - ****Deleting Users********
+23:31:18.649 [main] INFO  api.test.UserTestsProperties - ****Deleted Users********
+00:16:13.119 [main] INFO  api.test.UserTestsProperties - ****Creating Users********
+00:16:15.957 [main] INFO  api.test.UserTestsProperties - ****Users Created********
+00:16:15.966 [main] INFO  api.test.UserTestsProperties - ****Getting Users********
+00:16:17.205 [main] INFO  api.test.UserTestsProperties - ****User Details Retrieved********
+00:16:17.207 [main] INFO  api.test.UserTestsProperties - ****Updating Users********
+00:16:19.692 [main] INFO  api.test.UserTestsProperties - ****Updated Users********
+00:16:19.699 [main] INFO  api.test.UserTestsProperties - ****Deleting Users********
+00:16:20.988 [main] INFO  api.test.UserTestsProperties - ****Deleted Users********
+00:28:13.002 [main] INFO  api.test.UserTestsProperties - ****Creating Users********
+00:28:16.311 [main] INFO  api.test.UserTestsProperties - ****Users Created********
+00:28:16.321 [main] INFO  api.test.UserTestsProperties - ****Getting Users********
+00:28:17.613 [main] INFO  api.test.UserTestsProperties - ****User Details Retrieved********
+00:28:17.615 [main] INFO  api.test.UserTestsProperties - ****Updating Users********
+00:28:20.535 [main] INFO  api.test.UserTestsProperties - ****Updated Users********
+00:28:20.537 [main] INFO  api.test.UserTestsProperties - ****Deleting Users********
+00:28:21.875 [main] INFO  api.test.UserTestsProperties - ****Deleted Users********
